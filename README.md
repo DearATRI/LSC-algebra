@@ -1,7 +1,7 @@
 # algebra
 硬件技术团队编程基础作业
 # 作者前言
-本程序使用CLions编写，所用CMake版本为3.30，编译器为GCC x86_64-w64-mingw32(13.1.0)
+本程序使用CLion编写，所用CMake版本为3.30，编译器为GCC x86_64-w64-mingw32(13.1.0)
 
 不用VSCode是因为我菜，配置不来CMake，大概是跟settings.json中的include path有关，一直无法成功运行，而CLion的自动配置解决了这一点。望周知。
 ## 本项目由高性能机器人ATRI赞助。
