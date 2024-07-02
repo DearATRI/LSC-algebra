@@ -12,7 +12,7 @@
 ![矩阵相加](https://github.com/DearATRI/LiuShuchang_hw1/blob/main/Screenshot%202024-07-02%20172823.png)
 2. 矩阵相减  
 减就完事了。  
-![矩阵相减](https://github.com/DearATRI/LiuShuchang_hw1/main/Screenshot%202024-07-02%20173418.png)
+![矩阵相减](https://github.com/DearATRI/LiuShuchang_hw1/blob/main/Screenshot%202024-07-02%20173418.png)
 3. 矩阵乘法  
 利用三重循环套数学公式即可。  
 ![矩阵相乘](https://github.com/DearATRI/LiuShuchang_hw1/blob/main/Screenshot%202024-07-02%20174950.png)
